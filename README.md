@@ -20,7 +20,7 @@ Le système repose sur des techniques de **Machine Learning** et de **Traitement
 | Module | Description |
 |--------|-------------|
 | Base de données (PostgreSQL) | Stockage des utilisateurs, entreprises, offres, et CV |
-| Backend API (Java / Spring Boot ou FastAPI si Python) | Gestion des accès, traitement logique, scoring |
+| Backend API Java | Gestion des accès, traitement logique, scoring |
 | Module NLP / ML | Extraction des informations et calcul du score de matching |
 
 ---
