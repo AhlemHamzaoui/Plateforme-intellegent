@@ -71,14 +71,6 @@ Ce modèle est :
 - Basé sur les compétences réelles extraites du CV
 - Flexible & améliorable
 
----
-
-## 🔮 Améliorations futures
-
-- Ajout d'un modèle basé sur **BERT / Word Embeddings**
-- Analyse du **niveau d'expérience** et des **certifications**
-- Interface de visualisation avancée
-- Intégration d’un chatbot d’assistance au candidat
 
 ---
 
@@ -86,6 +78,7 @@ Ce modèle est :
 
 **Ahlem Hamzaoui**  
 Étudiante en Data Science & Intelligence Artificielle  
+Encadré par : Mme Mansour Sihem
 Année Universitaire 2024 / 2025
 
 
